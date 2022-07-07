@@ -60,5 +60,5 @@ const Firestore = function () {
 
 }();
 
-
+//Comments
 module.exports = Firestore;
